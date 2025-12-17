@@ -2,8 +2,8 @@
 
 <div align="center" style="margin 16px" >
   
-![Visitas al Perfil](https://komarev.com/ghpvc/?username=oridori02&color=blueviolet&style=flat-square)
-[![Seguidores de GitHub](https://img.shields.io/github/followers/oridori02?label=Seguir&style=social)](https://github.com/oridori02)
+![Profile Views](https://komarev.com/ghpvc/?username=oridori02&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/oridori02?label=Seguir&style=social)](https://github.com/oridori02)
 
 </div>
 
@@ -30,9 +30,11 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
   <img style="margin 16px" src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=fff" alt="Solidity"/>
 </p>
 
-## ⭐ Proyectos Destacados
+## ⭐ Featured projects
 
-### 🎵 [WIP]()
-Descripción de proyecto
+### 🪐 [Gravitational Force Simulator + Graphical Interface](https://github.com/Melendo/TP2-SimuladorFisicoGrafico)
+Orbital mechanics simulator, calculates and visualizes in real time the gravitational interaction between massive bodies in a two-dimensional space.
 
-Tipo de proyecto y tecnologías
+Final project for the course Programming Technologies II of the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with Ignacio Melendo Bruggeman.
+
+Developed in Java, using the object-oriented programming paradigm and the Swing and AWT libraries for graphical interface management and rendering.
