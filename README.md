@@ -1,4 +1,4 @@
-# ¡Hola!¡Hello!¡Hej! 👋 I'm Oridori02
+# ¡Hola! ¡Hello! ¡Hej! 👋 I'm Oridori02
 
 <div align="center" style="margin 16px" >
   
@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 <p align="center">
   <img style="margin 16px" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img style="margin 16px" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=fff" alt="Jira"/>
-  <img style="margin 16px" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=fff" alt="GoogleColab"/>
+  <img style="margin 16px" src="https://img.shields.io/badge/TensorFlow-ff8f00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow"/>
+  <img style="margin 16px" src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="Pytorch"/>
   <img style="margin 16px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <br>
   <br>
