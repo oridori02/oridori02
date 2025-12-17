@@ -1,13 +1,12 @@
 # ¡Hola! ¡Hello! ¡Hej! 👋 I'm Oridori02
 
+Welcome to my GitHub profile! I am a passionate developer, interested in creating innovative solutions and learning new technologies.
+
 <div align="center" style="margin 16px" >
   
 ![Profile Views](https://komarev.com/ghpvc/?username=oridori02&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/oridori02?label=Seguir&style=social)](https://github.com/oridori02)
-
 </div>
-
-Welcome to my GitHub profile! I am a passionate developer, interested in creating innovative solutions and learning new technologies.
 
 ## 🛠️ My Technological Stack
 
