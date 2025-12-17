@@ -30,6 +30,12 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 </p>
 
 ## ⭐ Featured projects
+### 🌱 [SocialSprouts: Application to support the social integration of children with ASD](https://github.com/Melendo/UniFest)
+Gamified mobile application designed to improve social skills and communication in children with Autism Spectrum Disorder (ASD). 
+
+Bachelor’s thesis project for the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with [David Chaparro García](https://github.com/DavidChGA) and [Johan Cruz Huertas](https://github.com/JohanCH430).
+
+Developed with React Native (using TypeScript and JavaScript), requires Node.js, Android SDK, and JDK for deployment and operation.
 
 ### 🥳 [UniFest: Management System for University Events](https://github.com/Melendo/UniFest)
 Web application designed for the management and organization of university events, allowing the administration of aspects such as the event lineup, schedules, and attendee information.
