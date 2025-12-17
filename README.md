@@ -35,6 +35,6 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 ### 🪐 [Gravitational Force Simulator + Graphical Interface](https://github.com/Melendo/TP2-SimuladorFisicoGrafico)
 Orbital mechanics simulator, calculates and visualizes in real time the gravitational interaction between massive bodies in a two-dimensional space.
 
-Final project for the course Programming Technologies II of the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with Ignacio Melendo Bruggeman.
+Final project for the course Programming Technologies II of the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with [Ignacio Melendo Bruggeman](https://github.com/Melendo).
 
 Developed in Java, using the object-oriented programming paradigm and the Swing and AWT libraries for graphical interface management and rendering.
