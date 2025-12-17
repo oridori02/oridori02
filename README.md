@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 </p>
 
 ## ⭐ Featured projects
-### 🌱 [SocialSprouts: Application to support the social integration of children with ASD](https://github.com/Melendo/UniFest)
+### 🌱 [SocialSprouts: Application to support the social integration of children with ASD](https://github.com/DavidChGA/social-sprouts)
 Gamified mobile application designed to improve social skills and communication in children with Autism Spectrum Disorder (ASD). 
 
 Bachelor’s thesis project for the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with [David Chaparro García](https://github.com/DavidChGA) and [Johan Cruz Huertas](https://github.com/JohanCH430).
