@@ -31,6 +31,13 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 
 ## ⭐ Featured projects
 
+### 🥳 [UniFest: Management System for University Events](https://github.com/Melendo/UniFest)
+Web application designed for the management and organization of university events, allowing the administration of aspects such as the event lineup, schedules, and attendee information.
+
+Final project for the course Web Applications of the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with [Ignacio Melendo Bruggeman](https://github.com/Melendo).
+
+Built using Node.js as the runtime environment, Bootstrap for a responsive and aesthetic design, and a combination of HTML and JavaScript for frontend logic and interaction with the server.
+
 ### 🪐 [Gravitational Force Simulator + Graphical Interface](https://github.com/Melendo/TP2-SimuladorFisicoGrafico)
 Orbital mechanics simulator, calculates and visualizes in real time the gravitational interaction between massive bodies in a two-dimensional space.
 
