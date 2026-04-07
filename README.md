@@ -30,23 +30,30 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 </p>
 
 ## ⭐ Featured projects
-### 🌱 [SocialSprouts: Application to support the social integration of children with ASD](https://github.com/DavidChGA/social-sprouts)
+### 🌱 [SocialSprouts: Application to support the social integration of children with ASD (2025)](https://github.com/DavidChGA/social-sprouts)
 Gamified mobile application designed to improve social skills and communication in children with Autism Spectrum Disorder (ASD). 
 
 Bachelor’s thesis project for the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with [David Chaparro García](https://github.com/DavidChGA) and [Johan Cruz Huertas](https://github.com/JohanCH430).
 
 Developed with React Native (using TypeScript and JavaScript), requires Node.js, Android SDK, and JDK for deployment and operation.
 
-### 🥳 [UniFest: Management System for University Events](https://github.com/Melendo/UniFest)
+### 🥳 [UniFest: Management System for University Events (2024)](https://github.com/Melendo/UniFest)
 Web application designed for the management and organization of university events, allowing the administration of aspects such as the event lineup, schedules, and attendee information.
 
 Final project for the course Web Applications of the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with [Ignacio Melendo Bruggeman](https://github.com/Melendo).
 
 Built using Node.js as the runtime environment, Bootstrap for a responsive and aesthetic design, and a combination of HTML and JavaScript for frontend logic and interaction with the server.
 
-### 🪐 [Gravitational Force Simulator + Graphical Interface](https://github.com/Melendo/TP2-SimuladorFisicoGrafico)
+### 🪐 [Gravitational Force Simulator + Graphical Interface (2022)](https://github.com/Melendo/TP2-SimuladorFisicoGrafico)
 Orbital mechanics simulator, calculates and visualizes in real time the gravitational interaction between massive bodies in a two-dimensional space.
 
 Final project for the course Programming Technologies II of the Bachelor’s Degree in Software Engineering at the Complutense University of Madrid, developed jointly with [Ignacio Melendo Bruggeman](https://github.com/Melendo).
 
 Developed in Java, using the object-oriented programming paradigm and the Swing and AWT libraries for graphical interface management and rendering.
+
+### 💃 [Dance Academy Tenerife – Static Website (2018)](https://github.com/oridori02/DanceAcademy)
+Self-taught web development project consisting of a static website for a dance academy, designed to present courses, schedules, facilities, and general information in a structured and user-friendly way.
+
+Developed entirely using pure HTML and CSS, without frameworks or backend technologies, as it was created during the early stages of my learning journey. The homepage includes responsive design elements, while the rest of the site reflects my initial approach to layout and styling at that time.
+
+Due to storage limitations, some audiovisual resources (images and media content) are currently not available. Despite being an early project, it showcases foundational skills in web development, including semantic structure, layout design, and user-oriented content organization, as well as my progression over time as a developer.
