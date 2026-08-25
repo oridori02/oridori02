@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 ### 🔒 [BNSS ACME: Secure Enterprise Network Infrastructure (2026)](https://github.com/dobreasca/bnss-acme)
 Design and implementation of a secure multi-site network infrastructure for a fictional company with offices in Stockholm and London. The solution provides certificate-based authentication, secure remote access, network segmentation, encrypted communications, and continuous threat detection while following industry security best practices.
 
-Developed as part of the Building Networked Systems Security course in the MSc. Cybersecurity at KTH Royal Institute of Technology in collaboration with [Aurora Navas](https://github.com/auroranavas), [Ana-Maria Dobrescu] (https://github.com/dobreasca), [Zoe Koukouve] (https://github.com/zoekoukouve) and Venetia Ioanna Papadopoulo. 
+Developed as part of the Building Networked Systems Security course in the MSc. Cybersecurity at KTH Royal Institute of Technology in collaboration with [Aurora Navas](https://github.com/auroranavas), [Ana-Maria Dobrescu](https://github.com/dobreasca), [Zoe Koukouve](https://github.com/zoekoukouve) and Venetia Ioanna Papadopoulo. 
 
 The infrastructure integrates **FreeIPA** as a centralized identity and PKI platform, **Authentik** for Single Sign-On (SSO) and two-factor authentication (2FA), **OpenVPN** for secure site-to-site and remote access, **FreeRADIUS** with WPA2-Enterprise (EAP-TLS) for certificate-based Wi-Fi authentication, **Nextcloud** for secure file sharing, **BIND9** with DNSSEC and DNS-over-TLS, and **Snort** with **Fail2Ban** for intrusion detection and prevention.
 
