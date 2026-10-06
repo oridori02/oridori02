@@ -39,6 +39,15 @@ The infrastructure integrates **FreeIPA** as a centralized identity and PKI plat
 
 To further improve security monitoring, the project incorporates a self-hosted **Llama 3.2** model running through **Ollama** to analyze router logs and identify suspicious network activity. The complete infrastructure was deployed across multiple virtual machines, using VLAN segmentation, TLS encryption, certificate lifecycle management (OCSP/CRLs), and centralized identity management to create a scalable and secure enterprise environment.
 
+### 🛡️ [ARP Spoofing Lab (2025)](https://github.com/oridori02/CyberOverview-Project)
+Controlled cybersecurity lab demonstrating ARP spoofing, Man-in-the-Middle (MITM) attacks, and active ARP spoofing detection in an isolated Docker network environment.
+
+Developed as part of the Cybersecurity Overview course in the MSc. Cybersecurity at KTH Royal Institute of Technology in collaboration with [Nils Kovacic](https://github.com/nilskovacic1), [Mohammed Faisal Ahmed Ba Rashed and Hasim Demirok](https://github.com/MohaBars) and Hasim Demirok.
+
+The project demonstrates ARP cache poisoning and MITM attacks using Scapy, with traffic interception verified through tcpdump and IP forwarding. It also implements an active ARP spoofing detection framework that analyzes ARP traffic and uses TCP-SYN probes and ARP requests to distinguish legitimate hosts from spoofers, maintaining trusted IP–MAC mappings for future detection.
+
+Deployed using an isolated Docker bridge network with dedicated attacker, target, and server containers.
+
 ### 🌱 [SocialSprouts: Application to support the social integration of children with ASD (2025)](https://github.com/DavidChGA/social-sprouts)
 Gamified mobile application designed to improve social skills and communication in children with Autism Spectrum Disorder (ASD). 
 
