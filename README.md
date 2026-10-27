@@ -30,6 +30,16 @@ Welcome to my GitHub profile! I am a passionate developer, interested in creatin
 </p>
 
 ## ⭐ Featured projects
+### 🤖 [Security Evaluation of LLM Applications (2026)](https://github.com/nilskovacic1/project)
+
+Red-teaming study measuring how four production LLMs — ChatGPT-5, Claude Sonnet 4.6, Gemini 3 and Llama 3.1 — respond to adversarial prompting, comparing their refusal behaviour across four attack families.
+
+Developed as part of the DD2525 Language-Based Security course in the MSc. Cybersecurity at KTH Royal Institute of Technology in collaboration with [Nils Kovacic](https://github.com/nilskovacic1).
+
+The first line of work targets **prompt injection** through two Flask web applications backed by Gemini 3.1 Flash Lite via the Google AI Studio API — a fictional restaurant chatbot for **direct injection** and a page-embedded assistant for **indirect injection**.
+
+The second line probes **obfuscation** (Leetspeak, Base64 and prompts whose harmful intent is hidden inside mathematical functions that must be plotted and decoded) and **roleplay framing**, where a harmful request is wrapped in a fictional persona or identity cues.
+
 ### 🔒 [BNSS ACME: Secure Enterprise Network Infrastructure (2026)](https://github.com/dobreasca/bnss-acme)
 Design and implementation of a secure multi-site network infrastructure for a fictional company with offices in Stockholm and London. The solution provides certificate-based authentication, secure remote access, network segmentation, encrypted communications, and continuous threat detection while following industry security best practices.
 
